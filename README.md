@@ -2,6 +2,10 @@
 
 # Steps to run on Google Chrome...
 
+Just Open this Link ==> https://ravichaubey.github.io/HandWritten-Digit-Classifier/
+
+OR
+
 1. Download Web Server for Chrome Extension from Chrome Store.
 2. Keep all the files in a Single folder.
 3. Open Web Server for Chrome and select path to your local folder.
