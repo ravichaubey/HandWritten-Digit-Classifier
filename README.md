@@ -1,14 +1,14 @@
-# HandWritten Digit Classifier
+![](https://www.researchgate.net/profile/Neera_Saxena/publication/259044987/figure/fig4/AS:668763829571597@1536457130726/Each-block-is-a-16-16-representation-of-a-handwritten-digit.png)
 
-# Steps to run on Google Chrome...
+## Tools Used
 
-Just Open this Link ==> https://ravichaubey.github.io/HandWritten-Digit-Classifier/
+1. tensorflow.js
+2. HTML
 
-OR
+## How to run :-
 
-1. Download Web Server for Chrome Extension from Chrome Store.
-2. Keep all the files in a Single folder.
-3. Open Web Server for Chrome and select path to your local folder.
-4. After Selecting path open the address provided by Web server for chrome.
-5. Now in Browser click on .html file and wait for trainig to complete.
-6. Draw your own image and classify once you got pop up saying:  Training is done, try classifying your handwriting!
+1. This model has been deployed to github, **Please run model in browser [right here](https://ravichaubey.github.io/MNIST-Fashion-Classifier-Deployment/).**
+
+2. Wait for model training , look at right sidebar where training progress will be seen.
+
+3. Once training is completed , Please draw an image and click on classify.
