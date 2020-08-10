@@ -7,7 +7,7 @@
 
 ## How to run :-
 
-1. This model has been deployed to github, **Please run model in browser [right here](https://ravichaubey.github.io/MNIST-Fashion-Classifier-Deployment/).**
+1. This model has been deployed to github, **Please run model in browser [right here](https://ravichaubey.github.io/HandWritten-Digit-Classifier-Deployment/).**
 
 2. Wait for model training , look at right sidebar where training progress will be seen.
 
